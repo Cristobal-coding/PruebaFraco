@@ -7,6 +7,6 @@
     <title>Franco app</title>
 </head>
 <body>
-    <h1>Hola Cristobal</h1>
+    <h1>Hola mundo</h1>
 </body>
 </html>
